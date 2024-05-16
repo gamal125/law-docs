@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "383327663009",
+    "project_id": "legalapp-41629",
+    "storage_bucket": "legalapp-41629.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383327663009:android:272f9090474fac806011e0",
+        "android_client_info": {
+          "package_name": "com.gamaldevapp.docs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcon65tWdhfwTD9m1Tg59SXpqSMHYtL8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
